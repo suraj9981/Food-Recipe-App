@@ -14,3 +14,11 @@ Node.js & npm: Node.js and npm are used for managing packages and running the Re
 React Hooks: Built-in hooks like useState for managing the component state (e.g., handling selected recipes, search functionality).
 
 Optional API (future enhancement): Can be added to fetch real-time recipe data from a backend or third-party service.
+
+
+
+Technology Used Reactjs, JavaScript , HTML & JSX , CSS , React Hooks and API
+
+
+
+A Food Recipe App built with ReactJS allows users to browse , search and view details of Recipes
